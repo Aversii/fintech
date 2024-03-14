@@ -1,0 +1,8 @@
+coverage
+node_modules
+build
+.env
+package-lock.json
+request.rest
+coverage
+request.rest

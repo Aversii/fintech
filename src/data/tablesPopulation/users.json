@@ -1,0 +1,34 @@
+[
+	{
+	  "id": "1",
+	  "name": "Alice",
+	  "email": "alice@example.com",
+	  "password": "password123",
+	  "balance": 1000.00,
+	  "role": "ADMIN"
+	},
+	{
+	  "id": "2",
+	  "name": "Bob",
+	  "email": "bob@example.com",
+	  "password": "password456",
+	  "balance": 500.50,
+	  "role": "NORMAL"
+	},
+	{
+	  "id": "3",
+	  "name": "Charlie",
+	  "email": "charlie@example.com",
+	  "password": "password789",
+	  "balance": 750.25,
+	  "role": "NORMAL"
+	},
+	{
+		"id": "4",
+		"name": "Douglas",
+		"email": "douglas@example.com",
+		"password": "password789",
+		"role": "NORMAL"
+	}
+]
+  
