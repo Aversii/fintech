@@ -1,4 +1,4 @@
-import { CustomError } from "../error/customError";
+import { CustomError } from "../../error/customError";
 import { BaseDatabase } from "./baseDatabase";
 
 export class UserDatabase extends BaseDatabase {
